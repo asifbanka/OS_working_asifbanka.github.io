@@ -174,7 +174,7 @@ function renderTableData(){
         </td>
 
         <td>
-       <a href="">  ${table_row.sup_material} </a>
+        ${table_row.sup_material}
         </td>
 
         <td>
